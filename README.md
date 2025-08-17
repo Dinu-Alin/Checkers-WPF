@@ -1,4 +1,4 @@
-# Checkers-WPF
+# CheckersV4-WPF
 
 A simple single-player Checkers implementation in WPF using the [Model-View-ViewModel](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern) Design Pattern.
 
